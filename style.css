@@ -1,6 +1,7 @@
 html, body {
   margin: 0;
   padding: 0;
+  background-color: black;
 }
 
 canvas {
@@ -14,6 +15,7 @@ canvas {
 }
 
 h1, p {
+  color: white;
   text-align: center;
 
 }
